@@ -13,7 +13,7 @@
 
 👉 **Download recomendado (Windows – instalador .exe):**
 
-[🚀 Baixar Cotidiano PDF Studio (Setup .exe)](https://github.com/AurusDev/cotidiano-pdf-studio/releases/latest/download/CotidianoPDFStudioSetup.exe)
+[🚀 Baixar Cotidiano PDF Studio (Setup .exe)](https://github.com/AurusDev/cotidiano-pdf-studio/releases/download/v1.0.0/CotidianoPDFStudioSetup.exe)
 
 > Se o link não funcionar ainda, veja a seção **“Publicando o setup nas Releases”** abaixo – você precisa subir o arquivo na aba *Releases* uma vez.
 
