@@ -1,5 +1,26 @@
 # Cotidiano PDF Studio
 
+[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)](https://www.python.org/)
+![Platform](https://img.shields.io/badge/Plataforma-Windows-0078D6?logo=windows)
+[![License](https://img.shields.io/github/license/AurusDev/cotidiano-pdf-studio)](LICENSE)
+[![Repo size](https://img.shields.io/github/repo-size/AurusDev/cotidiano-pdf-studio)](https://github.com/AurusDev/cotidiano-pdf-studio)
+[![Last commit](https://img.shields.io/github/last-commit/AurusDev/cotidiano-pdf-studio)](https://github.com/AurusDev/cotidiano-pdf-studio/commits/main)
+[![Downloads](https://img.shields.io/github/downloads/AurusDev/cotidiano-pdf-studio/total)](https://github.com/AurusDev/cotidiano-pdf-studio/releases)
+
+---
+
+## ⬇️ Download
+
+👉 **Download recomendado (Windows – instalador .exe):**
+
+[🚀 Baixar Cotidiano PDF Studio (Setup .exe)](https://github.com/AurusDev/cotidiano-pdf-studio/releases/latest/download/CotidianoPDFStudioSetup.exe)
+
+> Se o link não funcionar ainda, veja a seção **“Publicando o setup nas Releases”** abaixo – você precisa subir o arquivo na aba *Releases* uma vez.
+
+---
+
+## ℹ️ Sobre o projeto
+
 **Cotidiano PDF Studio** é um aplicativo desktop em Python para quem lida diariamente com PDFs e quer uma ferramenta simples, direta e visual para fazer edições rápidas sem depender de suítes pesadas.
 
 O foco é o uso no dia a dia: alterar informações pontuais em documentos, mesclar PDFs, extrair páginas e textos, tudo com uma interface amigável construída em **CustomTkinter**.
@@ -56,7 +77,7 @@ O foco é o uso no dia a dia: alterar informações pontuais em documentos, mesc
 
 ## 🧱 Tecnologias usadas
 
-- **Python 3.11+** (recomendado)
+- **Python 3.11+**
 - **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** – UI moderna e dark mode
 - **[PyMuPDF (fitz)](https://pymupdf.readthedocs.io/)** – manipulação e renderização de PDFs
 - **[Pillow](https://pillow.readthedocs.io/)** – manipulação de imagens
