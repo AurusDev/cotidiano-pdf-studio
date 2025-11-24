@@ -3,9 +3,6 @@
 
 ## `LICENSE` (MIT)
 
-Aqui vai uma licença MIT com o nome do projeto.  
-Você pode substituir `SEU NOME` pelo seu nome ou nome da sua empresa.
-
 ```text
 MIT License
 
